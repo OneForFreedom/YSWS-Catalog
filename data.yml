@@ -1,5 +1,17 @@
 ---
 limitedTime:
+  - name: Construct
+    description: "Design projects using CAD, Get a 3d printer to print them!"
+    website: https://construct.hackclub.com
+    slack: https://hackclub.enterprise.slack.com/archives/C09TM7XKSSY
+    slackChannel: "#construct"
+    status: active
+    deadline: 2026-3-9
+    steps:
+      - Log into construct.hackclub.com
+      - Make projects!
+      - Submit!
+      - Get a cool new 3d printer!
   - name: Reboot
     deadline: "2026-02-11T23:59:59"
     description: Restore old projects, upgrade your desktop setup!
@@ -37,7 +49,7 @@ limitedTime:
     slack: https://hackclub.enterprise.slack.com/archives/C09CKP56TK2
     slackChannel: "#pxl"
     status: active
-    deadline: 2026-1-31
+    deadline: 2026-3-1
     detailedDescription: Pxl is a YSWS where you can either code for pixels (you can double dip this, no need to submit!), or make projects for merch with the final canvas!
     steps:
       - Join the Slack Channel
@@ -196,18 +208,6 @@ limitedTime:
       - Not limited to the US, but shipping may be expensive and we can't guarantee fudge quality
       - HCB grant cards are available as an alternative to fudge ($10 for half pound, $20 for full pound)
       - Fudge is stackable (1 lb for every 6 hours), but be reasonable (higher shipping costs)
-  - name: Construct
-    description: "Design projects using CAD, Get a 3d printer to print them!"
-    website: https://construct.hackclub.com
-    slack: https://hackclub.enterprise.slack.com/archives/C09TM7XKSSY
-    slackChannel: "#construct"
-    status: active
-    deadline: 2026-2-15
-    steps:
-      - Log into construct.hackclub.com
-      - Make projects!
-      - Submit!
-      - Get a cool new 3d printer!
   - name: Carnival
     description: Build an extension, plugin, or widget get prizes
     website: https://carnival.hackclub.com/
